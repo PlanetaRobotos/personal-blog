@@ -2,11 +2,11 @@
 const siteMetadata = {
     title: 'Pavlo Blog',
     author: 'CodeBucks',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
+    headerTitle: 'Pavlo Blog',
+    description: 'My blog about career',
     language: 'en-us',
     theme: 'system', // system, dark or light
-    siteUrl: 'https://pavlomyrskyi.com', // your website URL
+    siteUrl: 'https://blog.pavlomyrskyi.com', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'myrskyi.work@gmail.com',
